@@ -50,8 +50,6 @@
     <img src="https://i.pinimg.com/originals/61/34/90/613490b250a2a7b85c386dae5f51a0d0.gif" width="60" height="60"/>
     <img src="https://media1.tenor.com/images/cbd1e8cae5a229ee6b03c931e248c94f/tenor.gif?itemid=15476430" width="60" height="60"/>
     <img src="https://i.pinimg.com/originals/61/34/90/613490b250a2a7b85c386dae5f51a0d0.gif" width="60" height="60"/>
-    <img src="https://media1.tenor.com/images/cbd1e8cae5a229ee6b03c931e248c94f/tenor.gif?itemid=15476430" width="60" height="60"/>
-    <img src="https://i.pinimg.com/originals/61/34/90/613490b250a2a7b85c386dae5f51a0d0.gif" width="60" height="60"/>
     <img src="https://media1.tenor.com/images/cbd1e8cae5a229ee6b03c931e248c94f/tenor.gif?itemid=15476430" width="100" height="100"/>
     
     
